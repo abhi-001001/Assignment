@@ -1,0 +1,50 @@
+.div1{
+ border: 3px solid rgb(91, 20, 190);
+ margin: 40px;
+ background-color: rgb(11, 133, 133);
+ border-radius: 20px;
+ border-width: 10px;
+}
+.div2{
+     border: 3px double black;
+ margin: 40px;
+ background-color: rgb(112, 244, 169);
+ border-radius: 20px;
+ border-width: 10px;
+}
+.div3{
+      border: 3px dotted black;
+ margin: 40px;
+ background-color: rgb(213, 243, 126);
+ border-radius: 20px; 
+ border-width: 10px;
+}
+.div4{
+   border: 3px dashed black;
+ margin: 40px;
+ background-color: rgb(143, 2, 26);
+
+ border-width: 10px;
+}
+h2{
+margin: 20px;
+
+}
+p{
+    margin: 20px;
+    font-size: 20px;
+  
+}
+body{
+    border: 5px solid red;
+    background-color: rgb(176, 176, 87);
+    border-radius: 30px;
+}
+.div6{
+    height: 100px; width: 100px;
+    border: 2px solid rgb(62, 62, 144);
+  border-radius: 15px;
+  outline: 2px solid red;
+  margin: 20px;
+  background-color: blanchedalmond;
+}

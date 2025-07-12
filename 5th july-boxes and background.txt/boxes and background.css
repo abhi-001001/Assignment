@@ -1,0 +1,123 @@
+.header{
+    width: 100%;
+    height: 100px;
+    border: 2px solid orange dotted;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    background-color:blue;
+    color: white;
+    font-weight: 900;
+    align-content: center;
+}
+
+.content{
+width: 400px;
+height: 200px;
+border: 2px dashed black dashed;
+margin: auto;
+margin-top: 30px;
+align-content: center;
+text-align: center;
+padding: 10px;
+background-color: lightgray;
+color: #333;
+font-family: "Oswald";
+}
+
+.profile{
+    width: 350px;
+    height: 350px;
+    background-image: url(./amit.png);
+    border:2px solid black;
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+    margin-top: 30px;
+
+}
+.box{
+    width: 300px; ;
+    height: 150px;
+    border: 2px solid navy;
+    background-color: lightblue;
+    margin: auto;
+    margin-top: 30px;
+    color: darkblue;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.btn-red{
+   width: 100px;
+   height: 40px;
+   background-color: rgb(28, 8, 85);
+   color: rgb(239, 232, 232);
+margin: 20px;
+}
+
+.btn-green{
+   width: 100px;
+   height: 40px;
+   background-color:rgb(82, 100, 0);
+   color: rgb(239, 232, 232);
+   margin: 20px;
+}
+.btn-yellow{
+   width: 100px;
+   height: 40px;
+   background-color:yellow;
+   color: black;
+   margin: 20px;
+
+}
+.btn{
+   margin-left: 530px;
+    margin-top: 30px;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(149, 0, 255);
+    border: 2px dashed brown;
+    margin: auto;
+
+}
+
+.card{
+    width: 250px;
+    height: 300px;
+    background: linear-gradient(red, yellow);
+    border: 1px solid gray;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.notification{
+   width: 250px;
+            height: 100px;
+            background-color: #fff3cd;
+            border-left: 5px solid #ffc107;
+            color: #856404;
+            padding: 15px;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+            margin: auto;
+            margin-top: 30px;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    background-color:teal;
+    color: white;
+    font-weight: 900;
+    align-content: center;
+    margin-top: 40px;
+}
