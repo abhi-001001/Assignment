@@ -1,0 +1,53 @@
+
+[
+  {
+    "image": "https://m.media-amazon.com/images/I/81OaXwn1x4L._AC_SL1500_.jpg",
+    "title": "Echo Dot (5th Gen, 2022 release)",
+    "description": "Smart speaker with Alexa and improved sound, perfect for bedroom or kitchen."
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._AC_SL1500_.jpg",
+    "title": "Apple MacBook Air M2 Chip",
+    "description": "13.6-inch Liquid Retina display, 8GB RAM, 256GB SSD, macOS laptop."
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61vJ3mBZl6L._AC_SL1500_.jpg",
+    "title": "Samsung Galaxy S23 Ultra 5G",
+    "description": "256GB storage, 200MP camera, 6.8-inch AMOLED display, Phantom Black."
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61VfL-aiToL._AC_SL1000_.jpg",
+    "title": "Sony WH-1000XM5 Wireless Headphones",
+    "description": "Industry leading noise cancellation, 30-hour battery life, Bluetooth over-ear headphones."
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61v6uKsmZ0L._AC_SL1500_.jpg",
+    "title": "ASUS ROG Strix G16 Gaming Laptop",
+    "description": "Intel i9, RTX 4070 GPU, 16GB RAM, 1TB SSD, 165Hz display."
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/81V0Z8nBFkL._AC_SL1500_.jpg",
+    "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+    "description": "6-quart multi-cooker with slow cook, sauté, steam, and yogurt functions."
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71p11VZc+aL._AC_SL1500_.jpg",
+    "title": "Fitbit Charge 5 Advanced Fitness Tracker",
+    "description": "Includes stress management, sleep tracking, 24/7 heart rate, and built-in GPS."
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71cQWYVtcBL._AC_SL1500_.jpg",
+    "title": "Canon EOS R50 Mirrorless Camera",
+    "description": "24.2MP APS-C sensor, 4K video, compact design with 18-45mm kit lens."
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61CiqVTRBEL._AC_SL1500_.jpg",
+    "title": "HP 27-inch Full HD Monitor",
+    "description": "IPS display with 75Hz refresh rate, ultra-slim bezels, HDMI and VGA support."
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71D9ImsvEtL._AC_SL1500_.jpg",
+    "title": "boAt Rockerz 450 Bluetooth Headphones",
+    "description": "Up to 15H playtime, 40mm drivers, lightweight design, available in Aqua Blue."
+  }
+]
